@@ -61,7 +61,7 @@
 ### Backend Developer - Whiletrue (Dec 2022 - Jun 2023)
 - Focused on backend development tasks and bug fixing.
 
-### Support Engineer - FLOKZU (Nov 2021 - Present)
+### Support Engineer - FLOKZU (Nov 2023 - Present)
 - Provided technical support and assisted with BPMN modeling.
 
 ### Customer Success Executive - FLOKZU (Nov 2021 - Nov 2023)
